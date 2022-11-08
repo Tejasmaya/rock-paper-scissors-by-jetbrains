@@ -1,3 +1,4 @@
+```
 # rock paper scissors by jetbrains
  its a game made with python
 
@@ -60,3 +61,4 @@ while user_choice != "!exit":
 
 print("Bye!")
 rating.close()
+```
